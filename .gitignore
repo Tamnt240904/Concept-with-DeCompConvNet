@@ -1,0 +1,46 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# IDE and Editor Files
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# Build and Compiled Files
+*.o
+*.out
+*.exe
+*.dll
+*.so
+*.dylib
+build/
+dist/
+target/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.env
+.venv
+
+
+# Temporary Files
+*.tmp
+*.temp
+*.bak
+*~
+
+# Project specific
+data/
+logs/
+.cache/
