@@ -41,6 +41,6 @@ ENV/
 *~
 
 # Project specific
-data/
+
 logs/
 .cache/
